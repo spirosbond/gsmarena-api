@@ -103,7 +103,7 @@ exports.device = (html) => {
     quick_spec.push({name: 'Camera pixels', value: camera_pixels})
     quick_spec.push({name: 'Video pixels', value: video_pixels})
     quick_spec.push({name: 'RAM size', value: ram_size})
-    quick_spec.push({name: 'Shipset', value: chipset})
+    quick_spec.push({name: 'Chipset', value: chipset})
     quick_spec.push({name: 'Battery size', value: battery_size})
     quick_spec.push({name: 'Battery type', value: battery_type})
 
